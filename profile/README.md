@@ -3,8 +3,8 @@
 
 |    Semester    |    Project Name      |                           Client                         |                           Description                         |  Source  |
 | :----------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------:|
-|  1SEM | Data SARS  | Internal client | Site que permite um fácil acesso a informações relacionadas a COVID Longa, destinado à jornalistas da rede Vanguarda. | [Data SARS](https://github.com/Grupo-Syntax-Squad/API)
-|  2SEM | CallGenie  | Internal client | Sistema CRUD Help Desk com 3 usuários: cliente, suporte técnico e administrador. | [CallGenie](https://github.com/Grupo-Syntax-Squad/CallGenie) |
+|  1SEM | Data SARS  | Internal client | Website that allows easy access to information related to COVID Longa, aimed at journalists from the Vanguarda network. | [Data SARS](https://github.com/Grupo-Syntax-Squad/API)
+|  2SEM | CallGenie  | Internal client | CRUD Help Desk system with 3 users: customer, technical support and administrator. | [CallGenie](https://github.com/Grupo-Syntax-Squad/CallGenie) |
 
 # Members
 |      Name      |                           Social Media                             |                 Data SARS                   |      CallGenie     |
