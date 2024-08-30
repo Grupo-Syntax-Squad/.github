@@ -6,7 +6,7 @@
 |  1SEM | Data SARS  | Internal client | Website that allows easy access to information related to COVID Longa, aimed at journalists from the Vanguarda network. | [Data SARS](https://github.com/Grupo-Syntax-Squad/API)
 |  2SEM | CallGenie  | Internal client | CRUD Help Desk system with 3 users: customer, technical support and administrator. | [CallGenie](https://github.com/Grupo-Syntax-Squad/CallGenie) |
 |  3SEM | AssetBox | Youtan | System of a solution for controlling and managing a company's assets | [AssetBox](https://github.com/Grupo-Syntax-Squad/AssetBox) |
-|  4SEM | ---- | ----- | -------- | ---- |
+|  4SEM | SkyGuard | Tecsus | Weather Station Monitoring and Alert System | ---- |
 
 # Members
 |      Name      |                           Social Media                             |                 Data SARS                   |      CallGenie     |   AssetBox  | ----- |
@@ -14,6 +14,7 @@
 | Diego Dias Motta Boa Sorte  | <a href="https://github.com/diegoboasorte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/diegoboasorte"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Dev Team | Dev Team | Dev Team | Scrum Master |
 |  Gabriel de Oliveira Silva Reis  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/b4hia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Product Owner | Product Owner | Dev Team |Dev Team |
 | Gabriel Felipe dos Santos  | <a href="https://github.com/gabrielfsantos99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | Dev Team | Dev Team | Dev Team |Dev Team |
+| Iago Cardoso Souza  | <a href="https://github.com/iagocpv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | ------ | ------ | ------ |Dev Team |
 | João Vitor dos Santos Pereira  | <a href="https://github.com/JaovitoP"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/joaopereira18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Dev Team | Dev Team | Product Owner |Dev Team |
 | Lucas Langeani                 | <a href="https://github.com/langeanith"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://br.linkedin.com/in/lucaslangeani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Dev Team | ------ | ------ |----- |
 | Mateus Henrique Lima dos Reis | <a href="https://github.com/mhlreis"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://br.linkedin.com/in/mhlreis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Dev Team | Dev Team | Dev Team |Product Owner |
