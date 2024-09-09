@@ -6,7 +6,7 @@
 |  1SEM | Data SARS  | Internal client | Website that allows easy access to information related to COVID Longa, aimed at journalists from the Vanguarda network. | [Data SARS](https://github.com/Grupo-Syntax-Squad/API)
 |  2SEM | CallGenie  | Internal client | CRUD Help Desk system with 3 users: customer, technical support and administrator. | [CallGenie](https://github.com/Grupo-Syntax-Squad/CallGenie) |
 |  3SEM | AssetBox | Youtan | System of a solution for controlling and managing a company's assets | [AssetBox](https://github.com/Grupo-Syntax-Squad/AssetBox) |
-|  4SEM | SkyGuard | Tecsus | Weather Station Monitoring and Alert System | ---- |
+|  4SEM | Tupã | Tecsus | Weather Station Monitoring and Alert System | ---- |
 
 # Members
 |      Name      |                           Social Media                             |                 Data SARS                   |      CallGenie     |   AssetBox  | SkyGuard |
