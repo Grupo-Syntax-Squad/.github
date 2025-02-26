@@ -10,7 +10,7 @@
 |  5SEM | NeuraHive | ---- | ---- | ----- |
 
 # Members
-|      Name      |                           Social Media                             |                 Data SARS                   |      CallGenie     |   AssetBox  | Tupã | --- |
+|      Name      |                           Social Media                             |                 Data SARS                   |      CallGenie     |   AssetBox  | Tupã | NeuraHive |
 | :--------------: | :----------------------------------------------------------: | :---------------------------------------------: | :----------------: | :-----------: | :-----------: | :---------: |
 | Diego Dias Motta Boa Sorte  | <a href="https://github.com/diegoboasorte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/diegoboasorte"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Dev Team | Dev Team | Dev Team | Scrum Master | ---- |
 |  Gabriel de Oliveira Silva Reis  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/b4hia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Product Owner | Product Owner | Dev Team |Dev Team | Scrum Master |
