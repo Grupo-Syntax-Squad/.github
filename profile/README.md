@@ -9,12 +9,12 @@
 |  4SEM | Tupã | Tecsus | Weather Station Monitoring and Alert System | [Tupã](https://github.com/Grupo-Syntax-Squad/Tupan) |
 |  5SEM | NeuraHive | Pro4Tech | APP for managing AI agents specialized in user-defined subjects. | [NeuraHive](https://github.com/Grupo-Syntax-Squad/neurahive) |
 |  5SEM | Food-Tracker | Internal client | APP for manage food tray of your pet. | [Food-Tracker](https://github.com/Grupo-Syntax-Squad/food-tracker) |
-|  6SEM | ----- | Dom Rock |  ------ | ------ |
+|  6SEM | Synapse | Dom Rock |  ------ | [Synapse](https://github.com/Grupo-Syntax-Squad/synapse) |
 
 
 
 # Members
-|      Name      |                           Social Media                             |                 Data SARS                   |      CallGenie     |   AssetBox  | Tupã | NeuraHive |  Food-Tracker | ----- |
+|      Name      |                           Social Media                             |                 Data SARS                   |      CallGenie     |   AssetBox  | Tupã | NeuraHive |  Food-Tracker | Synapse |
 | :--------------: | :----------------------------------------------------------: | :---------------------------------------------: | :----------------: | :-----------: | :-----------: | :---------: | :---------: | :-------: |
 | Diego Dias Motta Boa Sorte  | <a href="https://github.com/diegoboasorte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/diegoboasorte"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Dev Team | Dev Team | Dev Team | Scrum Master | ---- | ---- | ---- |
 |  Gabriel de Oliveira Silva Reis  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/b4hia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | Product Owner | Product Owner | Dev Team | Dev Team | Scrum Master | Dev Team | Scrum Master |
