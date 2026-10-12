@@ -7,7 +7,7 @@
 |  2SEM | CallGenie  | Internal client | CRUD Help Desk system with 3 users: customer, technical support and administrator. | [CallGenie](https://github.com/Grupo-Syntax-Squad/CallGenie) |
 |  3SEM | AssetBox | Youtan | System of a solution for controlling and managing a company's assets | [AssetBox](https://github.com/Grupo-Syntax-Squad/AssetBox) |
 |  4SEM | Tupã | Tecsus | Weather Station Monitoring and Alert System | [Tupã](https://github.com/Grupo-Syntax-Squad/Tupan) |
-|  5SEM | NeuraHive | Pro4Tech | APP for managing AI agents specialized in user-defined subjects. | [NeuraHive](https://github.com/Grupo-Syntax-Squad/neurahive) |
+|  5SEM | AI Agents | Pro4Tech | APP for managing AI agents specialized in user-defined subjects. | --- |
 |  5SEM | Food-Tracker | Internal client | APP for manage food tray of your pet. | [Food-Tracker](https://github.com/Grupo-Syntax-Squad/food-tracker) |
 |  6SEM | Synapse | Dom Rock |  ------ | [Synapse](https://github.com/Grupo-Syntax-Squad/synapse) |
 
